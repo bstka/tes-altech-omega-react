@@ -27,3 +27,8 @@
   3. Konfigurasi cepat
   4. Flexibilitas yang tinggi
   5. Dokumentasi yang bagus
+
+- React Router
+  1. Dokumentasi yang bagus
+  2. Support di Internet yang banyak
+  3. Mudah untuk diimplementasikan
