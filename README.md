@@ -1,5 +1,17 @@
 # Altech Omega React Test
 
+## Running Development
+```
+bun i
+bun run dev
+
+# or #
+
+npm i
+npm run dev
+```
+
+
 ## Tech stack
 - React
 - Vite
